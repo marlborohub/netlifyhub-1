@@ -1,0 +1,46 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://demo.blazethemes.com/newsmatic-two
+Data file = /home/u853385634/domains/blazethemes.com/public_html/demos/wp-content/uploads/sites/153/2023/01/technews.WordPress.2023-01-06.xml
+Widget file = /home/u853385634/domains/blazethemes.com/public_html/demos/wp-content/uploads/sites/153/2023/01/demo.blazethemes.com-newsmatic-pro-six-widgets.wie
+Customizer file = /home/u853385634/domains/blazethemes.com/public_html/demos/wp-content/uploads/sites/153/2023/01/newsmatic-pro-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Left Sidebar : 
+
+Block - No Title - Imported
+
+Frontpage - Middle Right Sidebar : 
+
+Newsmatic : Widget Title - No Title - Imported
+Navigation Menu - No Title - Imported
+Newsmatic : Carousel Posts - No Title - Imported
+Newsmatic : Posts List - No Title - Imported
+
+Footer Sidebar - Column 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Sidebar - Column 2 : 
+
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

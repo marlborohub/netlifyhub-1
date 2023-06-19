@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Speakers &#8211; Ten Online Mills</title>
+	<atom:link href="https://ten.online.mills.edu/category/speakers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ten.online.mills.edu</link>
+	<description></description>
+	<lastBuildDate>Sun, 04 Dec 2022 07:37:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>The Best Portable Speakers of 2022</title>
+		<link>https://ten.online.mills.edu/the-best-portable-speakers-of-2022/</link>
+					<comments>https://ten.online.mills.edu/the-best-portable-speakers-of-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[paglaadmin]]></dc:creator>
+		<pubDate>Sun, 04 Dec 2022 07:37:34 +0000</pubDate>
+				<category><![CDATA[Speakers]]></category>
+		<guid isPermaLink="false">https://demo.blazethemes.com/newsmatic-pro-six/?p=453</guid>
+
+					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ten.online.mills.edu/the-best-portable-speakers-of-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
